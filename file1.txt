@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 File 1 added
+=======
+Welcome to GitHub
+>>>>>>> 7403523358bd9dfbbfbe212e48af267b62ba6b97
 Hello, World!
